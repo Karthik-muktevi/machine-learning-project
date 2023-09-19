@@ -1,15 +1,22 @@
 # machine-learning-project
-Title:Zoomato delivery time Prediction
+Title:Zomato delivery time Prediction
 
 This is a complete end to end machine learning project with modular coding for predicting the food delievery time prediction.
 
 Table of Contents
+
 Overview
+
 Installation
+
 Usage
+
 Project Structure
+
 Modules
+
 Dependencies
+
 License
 
 Overview
